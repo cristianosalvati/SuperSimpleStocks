@@ -11,6 +11,6 @@ Key points:
 * Structured
 * Exceptions Handling
 * Unit Tests
-* 
+
 
 See https://github.com/cristianosalvati/SuperSimpleStocks/wiki for further details.
